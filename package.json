@@ -1,0 +1,12 @@
+{
+  "name": "backbone-metamask-bundle",
+  "version": "1.0.0",
+  "description": "bundled metamask for CDN",
+  "jsdelivr": "./bundle.js",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ethereum", "json rpc", "web3", "web3 provider", "metamask"],
+  "license": "MIT"
+}
